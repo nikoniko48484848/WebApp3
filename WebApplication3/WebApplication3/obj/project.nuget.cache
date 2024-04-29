@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRx+JCtR+zb3zwMLr5Bz7HjlwLehIJaoFbxqOB/iJkRhhL3q7HWecL3Rk8QwL5LVk/OpHr14Uh9TliHZuF9yaQ==",
+  "success": true,
+  "projectFilePath": "/Users/nikodemraczka/Desktop/APBD/Zaj7/WebApp3/WebApplication3/WebApplication3/WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikodemraczka/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/nikodemraczka/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
